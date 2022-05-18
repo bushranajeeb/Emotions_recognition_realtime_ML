@@ -9,4 +9,6 @@ To test the model directly without performing training through deep neural netwo
 
 Output video shows the detected emotions in real time
 
-[![Watch the video](https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/output.mp4)
+[![Watch the video](https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/output.mp4)]
+
+![Watch the video]((https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/output.mp4))
