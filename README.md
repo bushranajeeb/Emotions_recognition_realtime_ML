@@ -7,8 +7,10 @@ The categorised facial images with emotion dataset are sent  to CNN and then CNN
 
 To test the model directly without performing training through deep neural network, please use the saved model fer7_model.h5 with its weights, using the real time testing code provided in the repo.
 
-Output video shows the detected emotions in real time
+![Prediction on test dataset](https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/predictions.png)
 
-[![Watch the video](https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/output.mp4)]
+![Prediction on webcam](https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/test.jpg)
+
+Output video shows the detected emotions in real time
 
 ![Watch the video]((https://github.com/bushranajeeb/Emotions_recognition_realtime_ML/blob/main/output.mp4))
